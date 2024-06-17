@@ -2,7 +2,7 @@
   "name": "english-learning",
   "version": "1.0.0",
   "scripts": {
-    "build": "npx tailwindcss -i ./src/input.css -o ./src/style.css --watch",
+    "build": "npx tailwindcss -i ./css/input.css -o ./css/style.css --watch",
     "lint": "eslint . --ext .js,.html"
   },
   "keywords": [],
